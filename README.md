@@ -1,9 +1,6 @@
 <h1 align="center">Hello There</h1>
 
-### I'm a Senior Developer
-### I'm looking for a remote work, partime work and outsourcing requirement
-
-### I'm have 6 year expirence in development and system design
+### I am looking for a position as a software engineer where I would be able to put to use knowledge gained in the software development cycle and technical aptitude. Try to learn as much as possible, hone my development skills, and grow your company together. Happy mood, happy code.
 
 ### If you interest to hiring me, contact below.
 ## Contacts(for work only)
